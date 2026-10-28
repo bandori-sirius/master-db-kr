@@ -1,8 +1,8 @@
 {
-  "resourceVersion": "1.1.0.102.b7abb941",
+  "resourceVersion": "1.1.0.103.34bb374a",
   "platforms": {
     "Android": {
-      "catalog": "Android/catalog_1.1.0.102.b7abb941_ko.bin",
+      "catalog": "Android/catalog_1.1.0.103.34bb374a_ko.bin",
       "assets": [
         {
           "internalId": "https://dummy.net/asset/Android/adv-chat-data_assets_adv-chat-data-001_tomorieverything_1ceb474fdf1d0897ed52095688a696dc.bundle",
@@ -76589,9 +76589,9 @@
           "size": 817806
         },
         {
-          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00004_da7c7c2308c9dfab406879e0c7735df0.bundle",
-          "hash": "da7c7c2308c9dfab406879e0c7735df0",
-          "crc": 750149836,
+          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00004_ba28bd2f48b52aeda980d3f9053202f0.bundle",
+          "hash": "ba28bd2f48b52aeda980d3f9053202f0",
+          "crc": 2958219448,
           "size": 512719
         },
         {
@@ -80663,10 +80663,10 @@
           "size": 4800
         },
         {
-          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_app.runtime.patch-1.1.0_7f99155259b3be9472628bb1f0d1a4d5.bundle",
-          "hash": "7f99155259b3be9472628bb1f0d1a4d5",
-          "crc": 2513215241,
-          "size": 7327
+          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_app.runtime.patch-1.1.0_f68c8d53e8fb38418a6f5b364d3c7c4d.bundle",
+          "hash": "f68c8d53e8fb38418a6f5b364d3c7c4d",
+          "crc": 1789070803,
+          "size": 10032
         },
         {
           "internalId": "https://dummy.net/asset/Android/patch_assets_patch_dummy_66b13f1986e0a5bb1cb379e15fc0f4f4.bundle",
@@ -90648,9 +90648,9 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embbuildtempanchor_assets_all.bundle",
-          "hash": "7f6784c9cf60ad27823c569dc40cdbcb",
+          "hash": "de4c85eaaf0067c772a42a79b0c72431",
           "crc": 0,
-          "size": 83509
+          "size": 83510
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embfont_assets_font-a-otf-shingopr6n-regular-splash.bundle",
@@ -90829,7 +90829,7 @@
       ]
     },
     "iOS": {
-      "catalog": "iOS/catalog_1.1.0.102.b7abb941_ko.bin",
+      "catalog": "iOS/catalog_1.1.0.103.34bb374a_ko.bin",
       "assets": [
         {
           "internalId": "https://dummy.net/asset/iOS/adv-chat-data_assets_adv-chat-data-001_tomorieverything_f90b64a4fb592c0fc18e00335775cf71.bundle",
@@ -167416,9 +167416,9 @@
           "size": 817806
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00004_df5b608905098f1f54b356fbace90bd7.bundle",
-          "hash": "df5b608905098f1f54b356fbace90bd7",
-          "crc": 4217909872,
+          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00004_b7fd2c86814a9cff980bbfa06ccc54e7.bundle",
+          "hash": "b7fd2c86814a9cff980bbfa06ccc54e7",
+          "crc": 479769437,
           "size": 512719
         },
         {
@@ -171490,10 +171490,10 @@
           "size": 4801
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_app.runtime.patch-1.1.0_7f99155259b3be9472628bb1f0d1a4d5.bundle",
-          "hash": "7f99155259b3be9472628bb1f0d1a4d5",
-          "crc": 2588624475,
-          "size": 7327
+          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_app.runtime.patch-1.1.0_f68c8d53e8fb38418a6f5b364d3c7c4d.bundle",
+          "hash": "f68c8d53e8fb38418a6f5b364d3c7c4d",
+          "crc": 3372387240,
+          "size": 10032
         },
         {
           "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_dummy_66b13f1986e0a5bb1cb379e15fc0f4f4.bundle",
@@ -181475,9 +181475,9 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/iOS/embbuildtempanchor_assets_all.bundle",
-          "hash": "07a16633db563a9dd80e6e012b06fc70",
+          "hash": "aab654a3f3977f419c0ca7597f97b136",
           "crc": 0,
-          "size": 85364
+          "size": 85365
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/iOS/embfont_assets_font-a-otf-shingopr6n-regular-splash.bundle",
